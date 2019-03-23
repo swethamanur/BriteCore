@@ -5,3 +5,4 @@ input.forEach((char) => {
 })
 
 console.log(output);
+//https://engineering-application.britecore.com/quiz/saasdasdlflfls
