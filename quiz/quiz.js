@@ -6,5 +6,6 @@ let message = 'gAAAAABclfNY0cetoKL7XuLGgVnitt0rREeyq6tOOezZ2qmr86pYtMPRKb8A8p4kL
 //giving options to the token object.
 let token = new fernet.Token({secret: secret, token: message, ttl:0})
 token.decode();
+console.log(token.decode());
 
-//Got null or empty response.
+//https://engineering-application.britecore.com/e/t23e119s2t/testMidLevelFrontendDeveloper
